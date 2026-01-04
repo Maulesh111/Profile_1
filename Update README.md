@@ -1,4 +1,4 @@
-# pr27
-This is my first Git Repository
+# Hello,
+This is my first GitHub Repository
 <br>
 ~By Maulesh
